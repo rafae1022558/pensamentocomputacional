@@ -1,1 +1,2 @@
-# pensamentocomputacional
+# pensamentocomputacional         
+rafael ferreira da silva
